@@ -1,0 +1,87 @@
+{
+  "intro": {
+    "introHeeading": "About Us",
+    "introTextfirst": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste doloribus, minima ut officiis nobis sse repudiandae expedita laborum facere modi perspiciatis a nesciunt voluptas error fugit delectus similique ex labore?",
+    "introTextSecond": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque dicta, accusantium nam quas deserunt molestias sequi, minima, reprehenderit ducimus magni a numquam id harum. Quod tempora labore animi dicta placeat."
+  },
+  "aboutHomeCards": [
+    {
+      "id": "01",
+      "icon": "fas fa-cog",
+      "title": "Authentic Services",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.."
+    },
+    {
+      "id": "02",
+      "icon": "fas fa-lock ",
+      "title": "Secure Payment",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.."
+    },
+    {
+      "id": "03",
+      "icon": "fas fa-lock",
+      "title": "Secure Payment",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.."
+    }
+  ],
+  "aboutBlock": {
+    "description": " Boost your Instagram Presence with our award-winning services."
+  },
+  "textCentered": {
+    "title": "Ready to buy Real <span>Instagram</span> followers?",
+    "descriptionFirst": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+    "descriptionSecond": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing."
+  },
+  "accordianModelLeft": [
+    {
+      "title": "Can you target followers from Sydney?",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, neque qui velit. Magni dolorum quidem ipsam eligendi, totam, facilis laudantium cum accusamus ullam voluptatibus commodi numquam, error, est. Ea, consequatur."
+    },
+    {
+      "title": "Can I buy a lot of followers?",
+      "text": "You can get as many friends as you want. We have packages with between 50 and 50,000 followers. Our customer service team is here to help if you need a unique package."
+    },
+    {
+      "title": "How long does it take to deliver?",
+      "text": "As soon as your order is confirmed, delivery begins right away. You’ll get an email telling you, and soon after, followers will show up on your page."
+    },
+    {
+      "title": "Will having it grow my business?",
+      "text": "Of course! More followers make you seem more trustworthy and bring you more natural followers. This is a great way to make your business more well-known and reliable."
+    },
+    {
+      "title": "How do I pay for my order?",
+      "text": "You can pay us with PayPal or a major credit card. We don’t ask for private information, and your transaction is safe."
+    },
+    {
+      "title": "How Long Do People Follow You?",
+      "text": "The followers you buy are natural and are already following you. They will stay on your page until you delete them."
+    }
+  ],
+  "accordianModelRight": [
+    {
+      "title": "Will people find out that I bought followers?",
+      "text": "No, we care about your safety. We give you real followers with real accounts, so no one will ever know you bought them."
+    },
+    {
+      "title": "What if I change my mind?",
+      "text": "You can get rid of followers you bought whenever you want, and there’s no risk. If you take them down, you will get your money back."
+    },
+    {
+      "title": "Does the process seem safe?",
+      "text": "We follow Instagram’s Terms of Service, and our process is safe. We offer real followers and use a secure, natural process."
+    },
+    {
+      "title": "How does the refill work?",
+      "text": "If your number of followers drops, you can get more by calling our customer service team at any time. We are here to ensure you are happy with our service."
+    },
+    {
+      "title": "Is it okay to buy followers on Instagram?",
+      "text": "It is possible to buy Instagram followers. We ensure you follow Instagram’s rules by giving you honest, live followers."
+    },
+    {
+      "title": "Why Do Followers Stop?",
+      "text": "Drops don’t happen often, but they can if people mark accounts as spam. Because of these problems, we give free refills to compensate for lost items."
+    }
+  ]
+}

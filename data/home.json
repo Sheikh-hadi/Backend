@@ -1,0 +1,162 @@
+{
+  "intro": {
+    "id": "introSection",
+    "introHeeading": "Get Instant Fame with Buy Followers Australia",
+    "introText": "Boost your online presence effortlessly with Buy Followers Australia! Our high-quality services are designed to make your social media accounts shine and your business look credible and world-famous. With our 100% real and active followers, likes, and views, you’ll supercharge your reach and build trust with your audience.",
+    "introButtonFirst": "BUY IG FOLLOWERS",
+    "introButtonSecond": "BUY TIKTOK FOLLOWERS",
+    "introButtonThird": "BUY INSTAGRAM LIKES"
+  },
+  "iconCardArray": [
+    {
+      "id": "iconCard1",
+      "icon": "fas fa-users",
+      "text": "Active Users"
+    },
+    {
+      "id": "iconCard2",
+      "icon": "fas fa-headset",
+      "text": "Live Support"
+    },
+    {
+      "id": "iconCard3",
+      "icon": "fas fa-key",
+      "text": "Safe and Secure"
+    },
+    {
+      "id": "iconCard4",
+      "icon": "fas fa-money-check-alt",
+      "text": "Secure Payment"
+    }
+  ],
+  "threeStepProcess": {
+    "id": "threeStepProcess",
+    "title": "3 Step Process",
+    "heading": "How to Buy Instagram Followers, Likes, and Views.",
+    "para": "Buy Followers Australia will help you get better at Instagram. Our process is easy and quick, and we will always give you correct answers. To begin, do these simple things:"
+  },
+  "homePackagescards": [
+    {
+      "id": "01",
+      "icon": "fas fa-shopping-cart icon",
+      "title": "Select Your Package",
+      "description": "Pick a package from our list to find the right one. Let us help you get more followers, whether you want a little extra or a considerable boost. If you still need help finding what you need, let us know, and we can customize a package just for you! Click “Buy Now” to get started.",
+      "style": {
+        "background": {
+          "backgroundColor": "#b981f2"
+        },
+        "heading1": {
+          "fontSize": "70px",
+          "color": "#ffffff42",
+          "margin": "0px"
+        },
+        "heading2": {
+          "fontSize": "20px",
+          "color": "#ffffffe6",
+          "margin": "0px"
+        },
+        "description": {
+          "margin": "10px 0",
+          "color": "#FFFFFFD4",
+          "fontSize": "15px"
+        },
+        "icon": {
+          "fontSize": "30px",
+          "color": "white"
+        }
+      }
+    },
+    {
+      "id": "02",
+      "icon": "fas fa-mail-bulk icon",
+      "title": "Enter your information",
+      "description": "Pick a package from our list to find the right one. Let us help you get more followers, whether you want a little extra or a considerable boost. If you still need help finding what you need, let us know, and we can customize a package just for you! Click “Buy Now” to get started.",
+      "style": {
+        "background": {
+          "backgroundColor": "#e3f8ec"
+        },
+        "heading1": {
+          "fontSize": "70px",
+          "color": "#9dcca3",
+          "margin": "0px"
+        },
+        "heading2": {
+          "fontSize": "20px",
+          "color": "#28c968",
+          "margin": "0px"
+        },
+        "description": {
+          "margin": "10px 0",
+          "color": "#5e6d64cc",
+          "fontSize": "15px"
+        },
+        "icon": {
+          "fontSize": "30px",
+          "color": "rgb(28, 115, 105)"
+        }
+      }
+    },
+    {
+      "id": "03",
+      "icon": "fas fa-money-check-alt icon",
+      "title": "Checkout",
+      "description": "Pick a package from our list to find the right one. Let us help you get more followers, whether you want a little extra or a considerable boost. If you still need help finding what you need, let us know, and we can customize a package just for you! Click “Buy Now” to get started.",
+      "style": {
+        "background": {
+          "backgroundColor": "#cdf9fe"
+        },
+        "heading1": {
+          "fontSize": "70px",
+          "color": "#449099",
+          "margin": "0px"
+        },
+        "heading2": {
+          "fontSize": "20px",
+          "margin": "0",
+          "color": "#449099"
+        },
+        "description": {
+          "fontSize": "15px",
+          "margin": "10 0",
+          "color": "#449099"
+        },
+        "icon": {
+          "fontSize": "30px",
+          "color": "#449099"
+        }
+      }
+    }
+  ],
+  "features": [
+    {
+      "id": "feature1",
+      "number": "2.",
+      "title": "24/7 Support",
+      "description": "Support 24 hours a day, seven days a week: Our expert team is here to answer your questions and fix any problems as soon as possible. At any time, we promise to give our customers the best services. Contacting us has several ways, so your questions will be answered quickly."
+    },
+    {
+      "id": "feature2",
+      "number": "3.",
+      "title": "Competitive Prices",
+      "description": "Don't waste time and money on marketing plans that don't work immediately. We help you save both time and money. Our prices are low enough that you can spend a small amount and focus on your main business to get the best results."
+    },
+    {
+      "id": "feature3",
+      "number": "4.",
+      "title": "Satisfaction Guarantee",
+      "description": "We promise to give you accurate services for Instagram and Facebook with real interaction. Customer happiness is our moral goal. If you give us a chance, you'll become one of our happy customers. Our satisfaction promise means that if your order doesn't work out for any reason, you can get your money back in full."
+    },
+    {
+      "id": "feature4",
+      "number": "5.",
+      "title": "Reliability",
+      "description": "At Buy Followers Australia, we use safe and natural methods to get more people to follow you on Instagram. We promise to give you honest, active followers who will respond to and connect with your posts, not bots or fake followers."
+    },
+    {
+      "id": "feature5",
+      "number": "6.",
+      "title": "Customer Privacy",
+      "description": "We never ask customers for their passwords because we value their privacy. We only need to ensure that your account's privacy settings are not turned off. We also don't give your information to anyone else, so you can be sure it is entirely private and safe."
+    }
+  ]
+}
